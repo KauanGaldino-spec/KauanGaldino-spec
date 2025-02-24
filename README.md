@@ -2,7 +2,8 @@
 🎯 I’m currently working on: Improving my web development skills and building dynamic websites.
 🤝 I’m looking to collaborate on: Web projects, especially those involving Tailwind CSS.
 🆘 I’m looking for help with: Expanding my freelancing opportunities and networking.
-🌱 I’m currently learning: Advanced JavaScript, React, and full-stack development.💬 Ask me about: Web development, technology, and freelancing.
+🌱 I’m currently learning: Advanced JavaScript, React, and full-stack development.
+💬 Ask me about: Web development, technology, and freelancing.
 ⚡ Fun fact: I enjoy gaming and always look forward to weekend game sessions!
 
 
